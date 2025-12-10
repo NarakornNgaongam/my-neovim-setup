@@ -1,2 +1,6 @@
 # my-neovim-setup
-เก็บการติดตั้ง neovim ไว้ใช้เอง ติดตั้งใหม่ทั้งหมดน่าจะเหนื่อย
+My Neovim Setup 
+I dont want to fresh install
+
+# How to Install
+1. Install folder in ~/.config
