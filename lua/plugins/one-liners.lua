@@ -11,4 +11,13 @@ return {
             require('nvim-highlight-colors').setup({})
         end
     },
+    {
+        "windwp/nvim-autopairs",
+        event = "InsertEnter",
+        config = function()
+            require("nvim-autopairs").setup({
+                check_ts = true,
+            })
+        end,
+    },
 }
